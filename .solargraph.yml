@@ -16,5 +16,3 @@ require:
   - activerecord
   - activestorage
   - activesupport
-reporters:
-- rubocop
