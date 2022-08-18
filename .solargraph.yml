@@ -2,10 +2,9 @@
 include:
 - "app/**/*.rb"
 exclude:
-- test/**/*
 - vendor/**/*
 - ".bundle/**/*"
-- sorbet/**/*.rb
+- "sorbet/**/*.rb"
 require:
   - actioncable
   - actionmailer

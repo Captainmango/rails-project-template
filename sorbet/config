@@ -4,3 +4,4 @@
 --ignore=Gemfile
 --ignore=Gemfile.lock
 --ignore=Rakefile
+--ignore=spec/
