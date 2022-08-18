@@ -14,4 +14,4 @@ require:
   - activemodel
   - activerecord
   - activestorage
-  - activesupport
+  - rspec-rails
